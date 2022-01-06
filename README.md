@@ -1,1 +1,2 @@
 "# FinanceManagementSystem" 
+Soft architecture
